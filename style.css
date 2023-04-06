@@ -1,0 +1,30 @@
+img{
+  max-width: 100%;
+}
+
+.header{
+  width: 100%;
+  background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,  url("img/hero.jpg");
+}
+
+.dil ul li{
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.nav-link{
+  color: white;
+}
+
+
+.teamCard{
+  text-align: center;
+}
+
+.teamCard a{
+  text-decoration: none;
+}
+
+.teamCard a h3{
+  color: black;
+}
